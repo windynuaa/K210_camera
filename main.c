@@ -10,7 +10,7 @@
 #include <sysctl.h>
 #include "uarths.h"
 #include <stdio.h>
-#include "ov2460.h"
+#include "ov2640.h"
 
 void pll_init()
 {
